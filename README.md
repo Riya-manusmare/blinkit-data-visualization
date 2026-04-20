@@ -2,7 +2,6 @@
 
 # Blinkit Sales Analysis Dashboard
 
-## Project Overview
 
 * Dataset Size: 8,523 rows
 * Features: 12+ columns
