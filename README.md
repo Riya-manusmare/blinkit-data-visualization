@@ -1,13 +1,5 @@
 ---
-
 # Blinkit Sales Analysis Dashboard
-
-
-* Dataset Size: 8,523 rows
-* Features: 12+ columns
-* Data Type: Structured retail dataset
-* Tool Used: Power BI
-* Objective: Analyze sales performance, outlet distribution, and product trends
 
 ---
 
